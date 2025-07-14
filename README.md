@@ -137,8 +137,8 @@
 - 중앙선 기준 주행: 카메라 기준 320 픽셀 중심 유지
 
 | Basic code |  | Optimized code | 
-|--------------|-------------|
-| ![Image](https://github.com/user-attachments/assets/9ab32888-f1c4-4095-b9c4-a668f06d0e66) | ![Image](https://github.com/user-attachments/assets/810cc764-d638-452f-9bf7-fe2e830b4144) | ![](https://github.com/user-attachments/assets/72a95b0c-c514-49d5-85a0-09f791f3fe6b) | ![](https://github.com/user-attachments/assets/0d01514d-5cbb-412c-9e0c-894d3a3c083e) |
+|---------------|----------------|
+| ![Image](https://github.com/user-attachments/assets/9ab32888-f1c4-4095-b9c4-a668f06d0e66) | ![Image](https://github.com/user-attachments/assets/810cc764-d638-452f-9bf7-fe2e830b4144) | 
 
 ---
 
