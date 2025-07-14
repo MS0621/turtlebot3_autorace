@@ -37,10 +37,13 @@
 
 | 문제 | 해결 방법 |
 |------|-----------|
-| 카메라 포지셔닝 오류 | Calibration.yaml 보정 + `image_raw` 토픽 사용 |
+| 카메라 포지셔닝 오류 | 매니퓰레이터 포즈 변경 + Calibration.yaml 보정 + `image_raw` 토픽 사용 |
+| poltfit의 이상치 발생 | poltfit 결과에 곡률 기반 필터링 적용|
 | 바닥 반사로 인한 차선 오인식 | 밝기 보정(`equalizeHist`) + HSV 자동 범위 설정 |
 | 차선 인식 불안정 | Morphology 연산 + Sliding Window 보완 |
 | ArUco 위치 인식 정확도 | 카메라 캘리브레이션 및 거리 기반 추정 적용 |
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/7b22b65f-b0fc-4972-9cb2-d3ec7571973f" />
+
 
 ---
 
@@ -61,7 +64,8 @@
 - PD 제어 기반 자율주행 구현
 - ArUco 마커 기반 위치 인식 및 Pick & Place 동작 성공
 - ROS2 기반 다중 노드 통신 구조 설계 및 실행
-
+- 결과적으로 basic 코드 대비 완주 시간이 약 34.8% 단축
+  
 ---
 
 ## 📸 주요 장면
