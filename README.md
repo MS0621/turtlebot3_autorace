@@ -136,9 +136,10 @@
 - 안정적인 속도 제어: 코너 구간에서 자동 감속
 - 중앙선 기준 주행: 카메라 기준 320 픽셀 중심 유지
 
-| Basic code |  | Optimized code | 
-|---------------|----------------|
-| ![Image](https://github.com/user-attachments/assets/9ab32888-f1c4-4095-b9c4-a668f06d0e66) | ![Image](https://github.com/user-attachments/assets/810cc764-d638-452f-9bf7-fe2e830b4144) | 
+| Basic Code | Optimized Code |
+|------------|----------------|
+| <img src="https://github.com/user-attachments/assets/9ab32888-f1c4-4095-b9c4-a668f06d0e66" width="400"/> | <img src="https://github.com/user-attachments/assets/810cc764-d638-452f-9bf7-fe2e830b4144" width="400"/> |
+
 
 ---
 
