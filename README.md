@@ -102,7 +102,10 @@
   
 ---
 
-## 📸 주요 장면
+## 📸 주요 기능
+
+### 📍 사용한 맵
+<img width="477" height="314" alt="Image" src="https://github.com/user-attachments/assets/41a80347-9a31-4ffe-9b64-65e33d5e4459" />
 
 ### 📍 카메라 캘리브레이션
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/83d650a5-d619-4b9d-8f90-146457df4916" />
