@@ -40,7 +40,8 @@
 
 ## 🎥 데모 영상
 
-[![Demo Video](https://img.youtube.com/vi/JMnDxCcO9bU/0.jpg)](https://youtube.com/shorts/JMnDxCcO9bU?feature=share)
+[![시연 영상 보기](https://img.youtube.com/vi/Na-itqUUj6Q/0.jpg)](https://youtube.com/shorts/Na-itqUUj6Q?feature=share)
+
 
 ---
 
