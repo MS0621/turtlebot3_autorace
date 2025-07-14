@@ -29,7 +29,7 @@
 - `detect_lane.py`: HSV + 밝기 기반 차선 마스킹 및 라인트레이싱
 - `control_lane.py`: PD 제어 기반 Steering 및 속도 조절
 - `aruco_detector.py`: ArUco 마커 기반 좌표 추출 및 TF 변환
-- `pick_n_place.py`: 로봇팔 Pick & Place 시나리오 구현
+- `pick_n_place.py`: 전달 받은 좌표까지 이동 및 로봇팔 Pick & Place 시나리오 구현
 
 ---
 
@@ -49,12 +49,12 @@
 
 ## 👥 팀원 역할
 
-| 이름 | 담당 |
-|------|------|
-| 정민섭 | 차선 인식 및 PD 제어 |
-| 문준웅 | 전체 주행 로직, 코드 통합 |
-| 이경민 | 하드웨어 세팅, ArUco 인식, 발표 자료 |
-| 최정호 | 카메라 캘리브레이션, 로봇팔 제어 |
+| 역할 | 이름 | 담당 |
+|------|------|------|
+| 팀장 | 정민섭 | 전체 목표 설정, 결과 진행 회의, 차선 인식 및 PD 제어 |
+| 팀원 | 문준웅 | 전체 주행 로직 및 코드 통합 |
+| 팀원 | 이경민 | 하드웨어 세팅, ArUco 인식, 발표 자료 |
+| 팀원 | 최정호 | 카메라 캘리브레이션, 로봇팔 제어 |
 
 ---
 
@@ -71,8 +71,7 @@
 ## 📸 주요 장면
 
 ### 📍 카메라 캘리브레이션
-<img src="https://github.com/user-attachments/assets/6becd47b-97c9-4232-ba3e-52231181b117" width="300"/>
-<img src="https://github.com/user-attachments/assets/bf3f3783-5f5d-4dcf-a7fa-a29712724e83" width="300"/>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/83d650a5-d619-4b9d-8f90-146457df4916" />
 
 ### 📍 차선 인식 개선 과정
 - 밝기 보정 (equalizeHist)
@@ -84,11 +83,15 @@
 | ![](https://github.com/user-attachments/assets/61782e78-f2cd-46a4-8063-a3bf40bf2eb0) | ![](https://github.com/user-attachments/assets/ec91b4d6-87ea-488b-bc7b-905d2645cc85) | ![](https://github.com/user-attachments/assets/72a95b0c-c514-49d5-85a0-09f791f3fe6b) | ![](https://github.com/user-attachments/assets/0d01514d-5cbb-412c-9e0c-894d3a3c083e) |
 
 ### 📍 ArUco 마커 인식
-<img src="https://github.com/user-attachments/assets/e0323ad8-20b0-4071-be4a-b4a4f49276ae" width="300"/>
-<img src="https://github.com/user-attachments/assets/3b6d4c11-e446-4fc8-adda-8b32225c55b3" width="300"/>
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/70e2ed7d-4cc9-4a78-bd89-35cf77824f41" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1ea9c2e4-35a1-47fe-b5b1-8fa3ebda65c9" />
+
 
 ### 📍 Pick & Place 동작
-<img src="https://github.com/user-attachments/assets/a908ae5a-6856-4fdf-8776-f9ac8c2921f7" width="500"/>
+<img width="513" height="685" alt="image" src="https://github.com/user-attachments/assets/dc5df63d-2fdb-415a-8d52-c50d700613f5" />
+<img width="513" height="685" alt="image" src="https://github.com/user-attachments/assets/d98a07e5-349e-4ccd-aa52-1e59dd7be7c6" />
+<img width="516" height="689" alt="image" src="https://github.com/user-attachments/assets/c121ae3a-adf6-4a1c-ab50-ba2592ceda7b" />
+
 
 ---
 
