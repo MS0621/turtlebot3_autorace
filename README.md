@@ -91,6 +91,16 @@
 ![Image](https://github.com/user-attachments/assets/8521991f-8dd9-471e-9cdf-ada4cd7dbc5d)
 ![Image](https://github.com/user-attachments/assets/a7fb8dc0-b51e-4790-bdc5-2736c9a87b5f)
 
+### 📍 Speed control
+- **PD 제어**: 중심 오차를 기반으로 회전 각속도(`angular.z`) 계산
+- **속도 감소**: 중심 오차가 클수록 속도 감소
+- **회전 제한**: 회전값은 ±1.0 rad/s로 제한
+- **조향 강도 기반 속도 보정**: 회전이 클수록 속도 감속
+📈 기대 효과
+- 부드러운 조향: P + D 항을 통해 급격한 회전 방지
+- 안정적인 속도 제어: 코너 구간에서 자동 감속
+- 중앙선 기준 주행: 카메라 기준 320 픽셀 중심 유지
+
 ---
 
 ## ✍ 개선 사항 및 회고
