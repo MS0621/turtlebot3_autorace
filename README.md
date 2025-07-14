@@ -88,10 +88,8 @@
 
 
 ### 📍 Pick & Place 동작
-<img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/dc5df63d-2fdb-415a-8d52-c50d700613f5" />
-<img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/d98a07e5-349e-4ccd-aa52-1e59dd7be7c6" />
-<img width="500" height="650" alt="image" src="https://github.com/user-attachments/assets/c121ae3a-adf6-4a1c-ab50-ba2592ceda7b" />
-
+![Image](https://github.com/user-attachments/assets/8521991f-8dd9-471e-9cdf-ada4cd7dbc5d)
+![Image](https://github.com/user-attachments/assets/a7fb8dc0-b51e-4790-bdc5-2736c9a87b5f)
 
 ---
 
