@@ -125,8 +125,7 @@
 
 
 ### 📍 Pick & Place 동작
-![Image](https://github.com/user-attachments/assets/8521991f-8dd9-471e-9cdf-ada4cd7dbc5d)
-![Image](https://github.com/user-attachments/assets/a7fb8dc0-b51e-4790-bdc5-2736c9a87b5f)
+![Image](https://github.com/user-attachments/assets/8521991f-8dd9-471e-9cdf-ada4cd7dbc5d) ![Image](https://github.com/user-attachments/assets/a7fb8dc0-b51e-4790-bdc5-2736c9a87b5f)
 
 ### 📍 Speed control
 - **PD 제어**: 중심 오차를 기반으로 회전 각속도(`angular.z`) 계산
@@ -171,6 +170,13 @@
 - 거리 기반 좌표 정밀도 보정 알고리즘 추가
 - GUI 및 CLI 제어 인터페이스 개발
 - LiDAR 기반 장애물 회피 기능 확장
+
+---
+
+## More about Project
+
+[▶️PDF로 보기](https://drive.google.com/file/d/1n3AtDVggh3wHsL1rOQZLcQp065JlJxry/preview)
+[▶️PPT로 보기](https://docs.google.com/presentation/d/10PB6XPisoFWjHCVppI50n4eXuVWcDxJk/edit?usp=sharing&ouid=100435134823954159263&rtpof=true&sd=true/preview)
 
 ---
 
